@@ -1,5 +1,5 @@
 # ecomwebsitephp
-2nd Sem Assignment project on Ecommerce website using Php+Mysql.Link to project website: [vishalanandnitw.me](http://vishalanandnitw.me/){:target="_blank" rel="noopener"}
+2nd Sem Assignment project on Ecommerce website using Php+Mysql.Link to project website: [vishalanandnitw.me](http://vishalanandnitw.me/)
 
 <br>
   
