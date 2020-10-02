@@ -1,6 +1,6 @@
 # ecomwebsitephp
 <b>2nd Sem Assignment project on Ecommerce website using Php+Mysql.Link to project website:<b>
-<a href="http://vishalanandnitw.me/">vishalanandnitw.me</a><br>
+<a href="http://vishalanandnitw.me/" target="_blank" rel="noopener noreferrer">vishalanandnitw.me</a><br>
 Screenshot 1: <br><br>
 
 <img src="1.1.PNG" alt="website homepage screenshot"> <br><br>
