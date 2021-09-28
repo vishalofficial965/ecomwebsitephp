@@ -1,4 +1,4 @@
-# ecomwebsitephp
+# E-com Website (php & mysql)
 Ecommerce website using Php+Mysql.Link to project website: [vishalanandnitw.me](http://vishalanandnitw.me/)
 
 <br>
